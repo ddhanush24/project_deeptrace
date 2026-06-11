@@ -1,5 +1,9 @@
 # MNIST Digit Classifier
 
+Name : Dhanush D Borkar
+Roll No : 251S225
+Branch : CSE
+
 Build a handwritten digit classifier using **PyTorch** and the **MNIST dataset**, one of the most widely used benchmark datasets in computer vision. This project introduces the core fundamentals of deep learning by guiding participants through the complete lifecycle of an image classification pipeline — from understanding raw image data to training and evaluating a neural network.
 
 The objective of this project is to design and implement a **Convolutional Neural Network (CNN)** capable of classifying grayscale handwritten digit images (0–9). Instead of following a fixed implementation tutorial, participants are encouraged to independently research concepts, experiment with architectures, and understand the reasoning behind each design choice.
